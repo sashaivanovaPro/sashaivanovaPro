@@ -25,7 +25,7 @@ I started learning frontend development with [RS School](https://rs.school/) fro
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 
-### My achievements
+### My Achievements
 
 **RS School Stage0**: [certificate](https://drive.google.com/file/d/1ZRelM6z8ZRbNunmKGkNIQZ4tFI-uW52y/view?usp=drive_link)  
 **Codecademy Learn HTML**: [certificate](https://drive.google.com/file/d/1JQ2rEgCqlXh5LRqVzK-IcQmG8BTsvACr/view?usp=drive_link)  
@@ -33,6 +33,19 @@ I started learning frontend development with [RS School](https://rs.school/) fro
 **Microsoft Learn. Build JavaScript applications using TypeScript**: [trophy](https://learn.microsoft.com/api/achievements/share/en-us/sashaivanovaPro-4278/UFGBEQK3?sharingId=69972FAA8DCD2DF9)  
 **Microsoft Learn. Introduction to version control with Git**: [trophy](https://learn.microsoft.com/api/achievements/share/en-us/sashaivanovaPro-4278/7ERJYG6Z?sharingId=69972FAA8DCD2DF9)  
 
+### My Contacts
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sashaivanovapro/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="mailto:sashaivanova.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/sashaivanovaPro">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a> 
+</div>
 
 
 
