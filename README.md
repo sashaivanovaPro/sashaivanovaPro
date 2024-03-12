@@ -4,8 +4,10 @@
 I'm a photographer and a doctor-anesthesiologist
 ### Here you can track my Frontend Learning Path  🚀
 
-I started learning frontend development with [RS School](https://rs.school/) <br>from scratch in December 2022.<br> And during all these months I have been feeling like...  
-<img width="200" src="https://github.com/sashaivanovaPro/sashaivanovaPro/assets/118177121/2b66629c-baa7-4484-a94d-85c5f49dbf32"/>
+I started learning frontend development with [RS School](https://rs.school/) from scratch in December 2022.<br> And during all these months I have been feeling like...  
+<img width="200" src="https://github.com/sashaivanovaPro/sashaivanovaPro/assets/118177121/2b66629c-baa7-4484-a94d-85c5f49dbf32"/>  
+### Briefly about my RS school progress
+![progress](https://github.com/sashaivanovaPro/sashaivanovaPro/assets/118177121/2831008d-b2c3-4f85-ac80-50def82f9e7e)
 
 <h4>IT for me is a real challenge</h4>
 <ul>
