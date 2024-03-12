@@ -3,7 +3,7 @@
 Hey, I'm Sasha. I'm a photographer and a doctor-anesthesiologist.  
 Previously, I have studied the language of medicine and the language of visual expression.  
 
-#### real challenge in my life
+#### IT for me is a real challenge
 A year ago, I decided to learn another language of communication - programming in JavaScript.  
 I started learning frontend development with [RS School](https://rs.school/) from scratch in December 2022.  
 And during three monthes I was feeling like ...
