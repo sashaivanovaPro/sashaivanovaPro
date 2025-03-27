@@ -1,7 +1,7 @@
 Hi there 👋 
 I'm Alexandra Ivanova!
 =====================
-👩‍💻 Frontend Developer (Junior) | Doctor-Nephrologist | Photographer
+👩‍💻 Frontend Developer | Doctor-Nephrologist | Photographer
 -----------------------------------
 ### My Frontend Journey 🚀
 
@@ -18,7 +18,7 @@ and recently achieved **Junior Frontend Developer** status through a formal tech
 
 #### My Current Focus & Goals 🎯
 
-* Actively seeking a job as a Junior Frontend Developer</li>
+* Actively seeking a job as a Frontend Developer</li>
 * Improving my skills in React ecosystem and TypeScript</li>
 * Working on projects with clean, maintainable code</li>
 * Learning more about modern frontend architectures and patterns</li>
@@ -33,14 +33,6 @@ and recently achieved **Junior Frontend Developer** status through a formal tech
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-### My Achievements
-
-**RS School**: [certificate](https://drive.google.com/file/d/1ZRelM6z8ZRbNunmKGkNIQZ4tFI-uW52y/view?usp=drive_link)  
-**Codecademy Learn HTML**: [certificate](https://drive.google.com/file/d/1JQ2rEgCqlXh5LRqVzK-IcQmG8BTsvACr/view?usp=drive_link)  
-**Codecademy Learn CSS**: [certificate](https://drive.google.com/file/d/1JQ2rEgCqlXh5LRqVzK-IcQmG8BTsvACr/view?usp=drive_link)  
-**Microsoft Learn. Build JavaScript applications using TypeScript**: [trophy](https://learn.microsoft.com/api/achievements/share/en-us/sashaivanovaPro-4278/UFGBEQK3?sharingId=69972FAA8DCD2DF9)  
-**Microsoft Learn. Introduction to version control with Git**: [trophy](https://learn.microsoft.com/api/achievements/share/en-us/sashaivanovaPro-4278/7ERJYG6Z?sharingId=69972FAA8DCD2DF9)  
 
 ### My Contacts
 
