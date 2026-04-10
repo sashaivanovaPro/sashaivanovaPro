@@ -1,4 +1,4 @@
-# Alexandra Ivanova
+# Sasha Ivanova
 
 Frontend Developer focused on scalable architecture and maintainable systems.
 
